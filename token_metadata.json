@@ -1,11 +1,11 @@
 {
-	"name": "ANALOS", // Token neve / Name of the token
-	"symbol": "ANALOS", // Token jele / Token symbol
-	"uri": "https://raw.githubusercontent.com/tm01013/token-metadata/main/token_metedata_github.json", // link a másik json-hoz / RAW github link of the another json
+	"name": "ANALOS",
+	"symbol": "ANALOS",
+	"uri": "https://raw.githubusercontent.com/Ian139/Sol2/main/token_metadata_github.json",
 	"seller_fee_basis_points": 100,
 	"creators": [
 		{
-			"address": "7ztU9iXBwNLBswajozYtKBXqTTTsdxwfaCEa17xPiVaY", // Az II/1 lépésben létrehozott pénztárca címe / Address of the wallet that you created in stepp II/1
+			"address": "CDxT6WBjuZe7TSgQo7VTK8C7w6sgXLSDCxkfjQ2jWKW9",
 			"verified": false,
 			"share": 100
 		}

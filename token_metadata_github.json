@@ -2,12 +2,12 @@
 	"name": "Piros pont",
 	"symbol": "PP",
 	"description": "Legpirosabb piros pont :)",
-	"image": "https://icp57gflwtdnijzl3spgd2jy5zy6folhc2nr6w6njfgt43m3mbnq.arweave.net/QJ_fmKu0xtQnK9yeYek47nHiuWcWmx9bzUlNPm2bYFs",
+	"image": "https://raw.githubusercontent.com/Ian139/Sol2/main/image.png",
 	"attributes": [],
 	"properties": {
 		"files": [
 			{
-				"uri": "https://icp57gflwtdnijzl3spgd2jy5zy6folhc2nr6w6njfgt43m3mbnq.arweave.net/QJ_fmKu0xtQnK9yeYek47nHiuWcWmx9bzUlNPm2bYFs",
+				"uri": "https://raw.githubusercontent.com/Ian139/Sol2/main/image.png",
 				"type": "image/png"
 			}
 		]
